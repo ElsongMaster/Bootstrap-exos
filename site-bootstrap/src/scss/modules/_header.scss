@@ -1,0 +1,19 @@
+header {
+  .logo {
+    height: 80px;
+    width: 100px;
+  }
+  .navbar-nav {
+    a:first-child {
+      color: white !important;
+    }
+
+    a {
+      color: rgba(255, 255, 255, 0.5) !important;
+    }
+
+    a:hover {
+      color: white !important;
+    }
+  }
+}
